@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Dec 2020 01:04:47 at http://avo.smartinnovates.com/demo5/home5-light/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://avo.smartinnovates.com/demo5/home5-light/ -O1 "C:\Users\User\Desktop\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:05:02	Warning: 	Retry after error 409 (Conflict) at link avo.smartinnovates.com/demo5/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2 (from avo.smartinnovates.com/demo5/home5-light/)
+01:05:32	Warning: 	Retry after error 409 (Conflict) at link avo.smartinnovates.com/demo5/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2 (from avo.smartinnovates.com/demo5/home5-light/)
+01:05:45	Warning: 	Retry after error 409 (Conflict) at link avo.smartinnovates.com/demo5/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2 (from avo.smartinnovates.com/demo5/home5-light/)
+01:05:45	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/revslider/public/assets/css/openhand.cur
+01:05:45	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+01:05:45	Warning: 	Retry after error 500 (Internal Server Error) at link avo.smartinnovates.com/demo5/wp-content/themes/img/exp.jpg (from avo.smartinnovates.com/demo5/wp-content/themes/avo/style.css?ver=1.0.0)
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/flaticon/Flaticon.eot
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/flaticon/Flaticon.eot?
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/flaticon/Flaticon.woff2
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/flaticon/Flaticon.woff
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/flaticon/Flaticon.ttf
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/peicon/Pe-icon-7-stroke.eot?d7yf1v
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/peicon/Pe-icon-7-stroke.eot?
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/peicon/Pe-icon-7-stroke.woff?d7yf1v
+01:05:46	Warning: 	File not parsed, looks like binary: avo.smartinnovates.com/demo5/wp-content/plugins/avo_plugin/assets/fonts/peicon/Pe-icon-7-stroke.ttf?d7yf1v
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/images/transparent.png (from avo.smartinnovates.com/demo5/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.21)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/assets/transparent.png (from avo.smartinnovates.com/demo5/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.21)
+01:05:46	Warning: 	Moved Permanently for avo.smartinnovates.com/demo5/home5-light/origin=https://
+01:05:46	Warning: 	Redirected link is identical because of 'URL Hack' option: avo.smartinnovates.com/demo5/home5-light/origin=https:// and avo.smartinnovates.com/demo5/home5-light/origin=https:/
+01:05:46	Warning: 	File has moved from avo.smartinnovates.com/demo5/home5-light/origin=https:// to http://avo.smartinnovates.com/demo5/home5-light/origin=https:/
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/Trident/ (from avo.smartinnovates.com/demo5/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.0.7)
+01:05:46	Warning: 	Retry after error 409 (Conflict) at link avo.smartinnovates.com/demo5/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2 (from avo.smartinnovates.com/demo5/home5-light/)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/Popover requires tooltip.js (from avo.smartinnovates.com/demo5/wp-content/themes/avo/js/bootstrap.min.js?ver=5.5.3)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/GET (from avo.smartinnovates.com/demo5/wp-content/themes/avo/js/svgembedder.min.js?ver=5.5.3)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/Edge/ (from avo.smartinnovates.com/demo5/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/Gecko/ (from avo.smartinnovates.com/demo5/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/Firefox/ (from avo.smartinnovates.com/demo5/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/Version/ (from avo.smartinnovates.com/demo5/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/version/ (from avo.smartinnovates.com/demo5/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/img/logo-light.png (from avo.smartinnovates.com/demo5/wp-content/themes/avo/js/scripts.js?ver=5.5.3)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/img/logo-dark.png (from avo.smartinnovates.com/demo5/wp-content/themes/avo/js/scripts.js?ver=5.5.3)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/forms/forms.js (from avo.smartinnovates.com/demo5/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8.1)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/forms/conditional-elements.js (from avo.smartinnovates.com/demo5/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8.1)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/populate.js (from avo.smartinnovates.com/demo5/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8.1)
+01:05:46	Error: 	"Not Found" (404) at link avo.smartinnovates.com/demo5/home5-light/form.js (from avo.smartinnovates.com/demo5/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8.1)
+01:05:47	Error: 	"Conflict" (409) after 2 retries at link avo.smartinnovates.com/demo5/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2 (from avo.smartinnovates.com/demo5/home5-light/)
+01:05:47	Warning: 	Retry after error 500 (Internal Server Error) at link avo.smartinnovates.com/demo5/wp-content/themes/img/exp.jpg (from avo.smartinnovates.com/demo5/wp-content/themes/avo/style.css?ver=1.0.0)
+01:05:47	Error: 	"Conflict" (409) after 2 retries at link avo.smartinnovates.com/demo5/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2 (from avo.smartinnovates.com/demo5/home5-light/)
+01:05:47	Error: 	"Internal Server Error" (500) after 2 retries at link avo.smartinnovates.com/demo5/wp-content/themes/img/exp.jpg (from avo.smartinnovates.com/demo5/wp-content/themes/avo/style.css?ver=1.0.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 0 seconds : 177 links scanned, 150 files written (6286492 bytes overall), 1 files updated [508904 bytes received at 8481 bytes/sec], 937377 bytes transferred using HTTP compression in 13 files, ratio 14%, 25.2 requests per connection
+(19 errors, 20 warnings, 0 messages)
